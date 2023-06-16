@@ -1,2 +1,2 @@
 # COVID-19-detection-x-ray-CNN
-COVID-19 detection from chest X-ray Dataset using CNN
+Download chest x-ray dataset from here : https://drive.google.com/drive/u/0/folders/1iDInONnhcqgPVnoaAt3rxgAPyRrJUQcR
